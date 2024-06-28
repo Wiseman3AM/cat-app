@@ -9,12 +9,13 @@ body {
     padding: 1em;
     border-radius: 1em;
     border: 1px solid #2EC4B6;
-    flex: 1;
+    
 }
 
 @media (min-width : 400px){
     .cats{
         display: flex;
+        flex: 1;
     }
 
 }
